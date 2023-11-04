@@ -1,0 +1,2 @@
+# CRIE O SEU JOGO!
+Este diretório contém os arquivos, sprites e áudios para você criar o seu próprio jogo! Sinta-se à vontade para explorar e experimentar com esses recursos e dar asas à sua criatividade. Divirta-se criando e personalizando seu próprio jogo!!!
