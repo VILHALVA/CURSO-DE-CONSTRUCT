@@ -2,7 +2,7 @@
 👨‍⚖️CONSTRUCT 3 É UM SOFTWARE DE CRIAÇÃO DE JOGOS E APLICATIVOS BASEADO EM HTML5. ELE PERMITE QUE OS USUÁRIOS DESENVOLVAM JOGOS E APLICATIVOS INTERATIVOS SEM A NECESSIDADE DE CONHECIMENTO AVANÇADO EM PROGRAMAÇÃO.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=Jogo) <br>
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=CONSTRUCT) <br>
 
 [![GitHub Repo stars](https://img.shields.io/badge/ACESSE-ENGINE-03A9F4?logo=google)](https://www.construct.net/en/register)
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLYOZqxNe79xL1Y7yXGZoPED-CNcqTTxJg&si=auMxr9LeOPiZEs-S)
