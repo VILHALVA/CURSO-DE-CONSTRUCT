@@ -2,14 +2,8 @@
 👨‍⚖️CONSTRUCT 3 É UM SOFTWARE DE CRIAÇÃO DE JOGOS E APLICATIVOS BASEADO EM HTML5. ELE PERMITE QUE OS USUÁRIOS DESENVOLVAM JOGOS E APLICATIVOS INTERATIVOS SEM A NECESSIDADE DE CONHECIMENTO AVANÇADO EM PROGRAMAÇÃO.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=CONSTRUCT) <br>
-
 [![GitHub Repo stars](https://img.shields.io/badge/ACESSE-ENGINE-03A9F4?logo=google)](https://www.construct.net/en/register)
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLYOZqxNe79xL1Y7yXGZoPED-CNcqTTxJg&si=auMxr9LeOPiZEs-S)
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Construct_3_Logo.svg/1200px-Construct_3_Logo.svg.png" align="center" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
 
 # CONCEITO:
 O Construt 3, ou Construct 3, é uma plataforma de desenvolvimento de jogos e aplicativos que permite criar jogos, aplicativos interativos e outros projetos sem a necessidade de programação tradicional. Ele é conhecido como um "construct" ou construtor de jogos, pois oferece uma interface visual intuitiva que permite aos usuários criar seus projetos simplesmente arrastando e soltando elementos e definindo eventos e ações através de lógica baseada em eventos.
