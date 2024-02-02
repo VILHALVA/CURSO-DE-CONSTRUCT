@@ -1,11 +1,9 @@
 # CURSO DE CONSTRUCT 3
 👨‍⚖️CONSTRUCT 3 É UM SOFTWARE DE CRIAÇÃO DE JOGOS E APLICATIVOS BASEADO EM HTML5. ELE PERMITE QUE OS USUÁRIOS DESENVOLVAM JOGOS E APLICATIVOS INTERATIVOS SEM A NECESSIDADE DE CONHECIMENTO AVANÇADO EM PROGRAMAÇÃO.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/ACESSE-ENGINE-03A9F4?logo=google)](https://www.construct.net/en/register)
-[![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLYOZqxNe79xL1Y7yXGZoPED-CNcqTTxJg&si=auMxr9LeOPiZEs-S)
+<img src="FOTO.png" align="center" width="400"> <br>
 
-# CONCEITO:
+## CONCEITO:
 O Construt 3, ou Construct 3, é uma plataforma de desenvolvimento de jogos e aplicativos que permite criar jogos, aplicativos interativos e outros projetos sem a necessidade de programação tradicional. Ele é conhecido como um "construct" ou construtor de jogos, pois oferece uma interface visual intuitiva que permite aos usuários criar seus projetos simplesmente arrastando e soltando elementos e definindo eventos e ações através de lógica baseada em eventos.
 
 Aqui estão alguns conceitos-chave do Construct 3:
@@ -20,8 +18,8 @@ Aqui estão alguns conceitos-chave do Construct 3:
 
 5. Comunidade e Recursos: O Construct 3 tem uma comunidade ativa de desenvolvedores e oferece uma variedade de tutoriais, documentação e fóruns de suporte para ajudar os usuários a aprender e resolver problemas.
 
-# CARACTERÍSTICAS:
-## POSITIVAS:
+## CARACTERÍSTICAS:
+### POSITIVAS:
 - **Sem Programação (No-Code):** Construct 3 é uma plataforma de desenvolvimento de jogos que permite criar jogos sem a necessidade de programação, utilizando uma abordagem "no-code".
 
 - **Interface Amigável:** Possui uma interface intuitiva e amigável, tornando o processo de criação de jogos acessível para iniciantes e designers sem conhecimento de programação.
@@ -34,7 +32,7 @@ Aqui estão alguns conceitos-chave do Construct 3:
 
 - **Atualizações Regulares:** A plataforma recebe atualizações regulares, introduzindo novos recursos e melhorias de desempenho.
 
-## NEGATIVAS:
+### NEGATIVAS:
 - **Limitações para Projetos Complexos:** Para projetos de jogos mais complexos, o Construct 3 pode apresentar limitações em comparação com ambientes de desenvolvimento tradicionais.
 
 - **Personalização Limitada:** A personalização do código e o controle detalhado sobre a lógica do jogo podem ser limitados em comparação com linguagens de programação tradicionais.
@@ -46,4 +44,9 @@ Aqui estão alguns conceitos-chave do Construct 3:
 - **Não Adequado para Todos os Tipos de Jogos:** Projetos específicos ou gêneros de jogos podem encontrar limitações em termos de desempenho ou flexibilidade no Construct 3.
 
 - **Aprendizado Limitado em Programação:** Embora seja uma ferramenta no-code, não proporciona aprendizado direto em programação, o que pode ser uma desvantagem para quem busca adquirir habilidades de codificação.
+
+## SUBSIDIOS:
+- [CURSO CRIADO PELO "RENAN SILVA - CRIAÇÃO DE JOGOS"](https://youtube.com/playlist?list=PLYOZqxNe79xL1Y7yXGZoPED-CNcqTTxJg&si=auMxr9LeOPiZEs-S)
+- [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
+- [ACESSE A ENGINE](https://www.construct.net/en/register)
 
