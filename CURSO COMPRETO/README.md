@@ -1,4 +1,23 @@
 # INSTRUÇÕES (GENÉRICAS)
+
+---
+## INDICE
+- [01) INTRODUÇÃO](./README.md#01-introdução)
+- [02) CONHECENDO O CONSTRUCT 3](./README.md#02-conhecendo-o-construct-3)
+- [03) COMO CRIAR UMA FASE NO CONSTRUCT?](./README.md#03-como-criar-uma-fase-no-construct)
+- [04) VAMOS FAZER O PERSONAGEM ANDAR E PULAR!](./README.md#04-vamos-fazer-o-personagem-andar-e-pular)
+- [07) COLOCANDO PLATAFORMAS NO JOGO](./README.md#07-colocando-plataformas-no-jogo)
+- [08) CRIAMOS UM ITEM PARA SER COLETADO](./README.md#08-criamos-um-item-para-ser-coletado)
+- [09) COLOCANDO BACKGROUND E FAZENDO O EFEITO PARALLAX](./README.md#09-colocando-background-e-fazendo-o-efeito-parallax)
+- [10) COMO FAZER O PERSONAGEM PERDER UMA VIDA?](./README.md#10-como-fazer-o-personagem-perder-uma-vida)
+- [11) CHEGOU A HORA DA MÚSICA!](./README.md#11-chegou-a-hora-da-música)
+- [12) COLOCANDO EFEITOS SONOROS NO JOGO (SFX)](./README.md#12-colocando-efeitos-sonoros-no-jogo-sfx)
+- [13) REFINANDO O JOGO E CONSTRUINDO A FASE 02](./README.md#13-refinando-o-jogo-e-construindo-a-fase-02)
+- [14) CRIANDO UM OBJETO A PARTIR DE OUTRO](./README.md#14-criando-um-objeto-a-partir-de-outro)
+- [15) DEIXANDO O JOGO MAIS DINÂMICO](./README.md#15-deixando-o-jogo-mais-dinâmico)
+- [16) COMO EXPORTAR UM JOGO NO CONSTRUCT](./README.md#16-como-exportar-um-jogo-no-construct)
+---
+
 ## 01) INTRODUÇÃO
 O desenvolvimento de jogos é um campo empolgante e criativo que envolve a criação de jogos digitais, seja para entretenimento, educação, treinamento ou outras finalidades. Vamos abordar alguns conceitos fundamentais:
 
